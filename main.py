@@ -12,4 +12,4 @@ places_json = json.dumps(places)
 
 print("All places entered:")
 for place in places:
-    print(place
+    print(place)
